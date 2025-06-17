@@ -1,0 +1,78 @@
+﻿@model ProductManagement.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card shadow-sm">
+            <div class="card-header bg-info text-white">
+                <h5 class="mb-0">
+                    <i class="fas fa-info-circle me-2"></i>Product Details
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="text-center mb-4">
+                    <h2 class="text-primary">@Model.Name</h2>
+                    <span class="badge bg-secondary fs-6">ID: #@Model.Id</span>
+                </div>
+
+                <div class="row g-4">
+                    <div class="col-md-6">
+                        <div class="card bg-success bg-opacity-10 border-success">
+                            <div class="card-body text-center">
+                                <i class="fas fa-dollar-sign fa-2x text-success mb-2"></i>
+                                <h6 class="card-title text-success">Price</h6>
+                                <h4 class="text-success fw-bold">@Model.Price.ToString("C")</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    @if (!string.IsNullOrEmpty(Model.Description))
+                    {
+                        <div class="col-md-6">
+                            <div class="card bg-primary bg-opacity-10 border-primary">
+                                <div class="card-body">
+                                    <i class="fas fa-file-text fa-lg text-primary mb-2"></i>
+                                    <h6 class="card-title text-primary">Description</h6>
+                                    <p class="card-text">@Model.Description</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="card bg-light mt-4">
+                    <div class="card-body">
+                        <h6 class="card-title">
+                            <i class="fas fa-calendar-alt me-2"></i>Timeline
+                        </h6>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <strong>Created:</strong><br>
+                                <span class="text-muted">@Model.CreatedDate.ToString("MMMM dd, yyyy 'at' hh:mm:ss tt")</span>
+                            </div>
+                            <div class="col-md-6">
+                                <strong>Last Updated:</strong><br>
+                                <span class="text-muted">@Model.UpdatedDate.ToString("MMMM dd, yyyy 'at' hh:mm:ss tt")</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-grid gap-2 d-md-flex justify-content-md-center mt-4">
+                    <a href="@Url.Action("Index")" class="btn btn-secondary me-md-2">
+                        <i class="fas fa-arrow-left me-2"></i>Back to List
+                    </a>
+                    <a href="@Url.Action("Edit", new { id = Model.Id })" class="btn btn-primary me-md-2">
+                        <i class="fas fa-edit me-2"></i>Edit
+                    </a>
+                    <a href="@Url.Action("Delete", new { id = Model.Id })" class="btn btn-danger">
+                        <i class="fas fa-trash me-2"></i>Delete
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

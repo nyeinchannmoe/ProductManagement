@@ -1,0 +1,301 @@
+﻿@{
+    ViewData["Title"] = "Developer Dashboard";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+@section Styles {
+    <link href="~/css/dashboard.css" rel="stylesheet" />
+}
+
+<div class="dashboard-container">
+    <!-- Header Section -->
+    <div class="dashboard-header">
+        <div class="header-content">
+            <div class="profile-section">
+                <div class="profile-avatar">
+                    <i class="fas fa-code"></i>
+                </div>
+                <div class="profile-info">
+                    <h1 class="dashboard-title">Developer Dashboard</h1>
+                    <p class="dashboard-subtitle">ASP.NET Core Assignment Performance</p>
+                </div>
+            </div>
+            <div class="last-updated">
+                Last updated: <span id="currentTime"></span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Stats Cards -->
+    <div class="stats-grid">
+        <div class="stat-card stat-success">
+            <div class="stat-content">
+                <div class="stat-info">
+                    <p class="stat-label">Project Status</p>
+                    <p class="stat-value">Completed</p>
+                </div>
+                <i class="fas fa-check-circle stat-icon"></i>
+            </div>
+        </div>
+
+        <div class="stat-card stat-primary">
+            <div class="stat-content">
+                <div class="stat-info">
+                    <p class="stat-label">Days Ahead</p>
+                    <p class="stat-value" id="daysAhead">2</p>
+                </div>
+                <i class="fas fa-clock stat-icon"></i>
+            </div>
+        </div>
+
+        <div class="stat-card stat-purple">
+            <div class="stat-content">
+                <div class="stat-info">
+                    <p class="stat-label">Code Quality</p>
+                    <p class="stat-value">92%</p>
+                </div>
+                <i class="fas fa-star stat-icon"></i>
+            </div>
+        </div>
+
+        <div class="stat-card stat-orange">
+            <div class="stat-content">
+                <div class="stat-info">
+                    <p class="stat-label">Tech Stack</p>
+                    <p class="stat-value">7</p>
+                </div>
+                <i class="fas fa-bolt stat-icon"></i>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tabs Navigation -->
+    <div class="tabs-container">
+        <div class="tabs-nav">
+            <button class="tab-button active" data-tab="overview">
+                <i class="fas fa-chart-line"></i> Overview
+            </button>
+            <button class="tab-button" data-tab="skills">
+                <i class="fas fa-code-branch"></i> Skills
+            </button>
+            <button class="tab-button" data-tab="project">
+                <i class="fas fa-project-diagram"></i> Project
+            </button>
+            <button class="tab-button" data-tab="achievements">
+                <i class="fas fa-trophy"></i> Achievements
+            </button>
+            <button class="tab-button" data-tab="next-steps">
+                <i class="fas fa-arrow-right"></i> Next Steps
+            </button>
+        </div>
+
+        <!-- Tab Content -->
+        <div class="tabs-content">
+            <!-- Overview Tab -->
+            <div class="tab-content active" id="overview">
+                <div class="content-grid">
+                    <!-- Project Overview Card -->
+                    <div class="card">
+                        <div class="card-header">
+                            <h3><i class="fas fa-briefcase"></i> Project Overview</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="project-info">
+                                <div class="project-title">
+                                    <span>Product Management System</span>
+                                    <span class="badge badge-success">Completed</span>
+                                </div>
+
+                                <div class="progress-section">
+                                    <div class="progress-header">
+                                        <span>Completion Progress</span>
+                                        <span>100%</span>
+                                    </div>
+                                    <div class="progress-bar">
+                                        <div class="progress-fill" style="width: 100%"></div>
+                                    </div>
+                                </div>
+
+                                <div class="project-dates">
+                                    <div class="date-item">
+                                        <p class="date-label">Completed</p>
+                                        <p class="date-value">025-06-16</p>
+                                    </div>
+                                    <div class="date-item">
+                                        <p class="date-label">Deadline</p>
+                                        <p class="date-value">2025-06-18</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Code Metrics Card -->
+                    <div class="card">
+                        <div class="card-header">
+                            <h3><i class="fas fa-code"></i> Code Metrics</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="metrics-grid">
+                                <div class="metric-item metric-blue">
+                                    <p class="metric-value">1,250</p>
+                                    <p class="metric-label">Lines of Code</p>
+                                </div>
+                                <div class="metric-item metric-green">
+                                    <p class="metric-value">12</p>
+                                    <p class="metric-label">Files</p>
+                                </div>
+                                <div class="metric-item metric-purple">
+                                    <p class="metric-value">28</p>
+                                    <p class="metric-label">Functions</p>
+                                </div>
+                                <div class="metric-item metric-orange">
+                                    <p class="metric-value">92%</p>
+                                    <p class="metric-label">Quality Score</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tech Stack Card -->
+                <div class="card full-width">
+                    <div class="card-header">
+                        <h3><i class="fas fa-database"></i> Technology Stack</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="tech-stack">
+                            <span class="tech-badge">ASP.NET Core</span>
+                            <span class="tech-badge">Dapper</span>
+                            <span class="tech-badge">MSSQL Server</span>
+                            <span class="tech-badge">Bootstrap 5</span>
+                            <span class="tech-badge">jQuery</span>
+                            <span class="tech-badge">HTML5</span>
+                            <span class="tech-badge">CSS3</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Skills Tab -->
+            <div class="tab-content" id="skills">
+                <div class="card full-width">
+                    <div class="card-header">
+                        <h3><i class="fas fa-chart-line"></i> Skills Assessment</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="skills-list" id="skillsList">
+                            <!-- Skills will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project Tab -->
+            <div class="tab-content" id="project">
+                <div class="card full-width">
+                    <div class="card-header">
+                        <h3><i class="fas fa-tasks"></i> Feature Implementation</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="features-list" id="featuresList">
+                            <!-- Features will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Achievements Tab -->
+            <div class="tab-content" id="achievements">
+                <div class="achievements-grid" id="achievementsGrid">
+                    <!-- Achievements will be populated by JavaScript -->
+                </div>
+            </div>
+
+            <!-- Next Steps Tab -->
+            <div class="tab-content" id="next-steps">
+                <div class="content-grid">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3><i class="fas fa-book-open"></i> Recommended Learning</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="learning-item learning-blue">
+                                <h4>Advanced ASP.NET Core</h4>
+                                <p>Microservices, SignalR, gRPC</p>
+                            </div>
+                            <div class="learning-item learning-green">
+                                <h4>Cloud Technologies</h4>
+                                <p>Azure, AWS, Docker, Kubernetes</p>
+                            </div>
+                            <div class="learning-item learning-purple">
+                                <h4>Testing & DevOps</h4>
+                                <p>Unit Testing, CI/CD, Automation</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3><i class="fas fa-users"></i> Interview Preparation</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="learning-item learning-yellow">
+                                <h4>Technical Round</h4>
+                                <p>Review SOLID principles, design patterns</p>
+                            </div>
+                            <div class="learning-item learning-red">
+                                <h4>System Design</h4>
+                                <p>Scalability, architecture discussions</p>
+                            </div>
+                            <div class="learning-item learning-indigo">
+                                <h4>HR Round</h4>
+                                <p>Prepare project explanations, career goals</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Performance Summary -->
+                <div class="card full-width">
+                    <div class="card-header">
+                        <h3><i class="fas fa-award"></i> Performance Summary</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="performance-summary">
+                            <h3>Excellent Performance! 🎉</h3>
+                            <div class="summary-grid">
+                                <div class="summary-item">
+                                    <p class="summary-title">✅ All Requirements Met</p>
+                                    <p class="summary-desc">100% feature completion</p>
+                                </div>
+                                <div class="summary-item">
+                                    <p class="summary-title">⚡ Early Submission</p>
+                                    <p class="summary-desc">2 days ahead of schedule</p>
+                                </div>
+                                <div class="summary-item">
+                                    <p class="summary-title">🏆 High Quality Code</p>
+                                    <p class="summary-desc">92% quality score</p>
+                                </div>
+                            </div>
+                            <div class="recommendation">
+                                <strong>Recommendation:</strong> You're well-prepared for the next interview rounds.
+                                Focus on explaining your technical decisions and be ready to discuss scalability improvements.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/dashboard.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Initialize dashboard
+            DashboardManager.init();
+        });
+    </script>
+}

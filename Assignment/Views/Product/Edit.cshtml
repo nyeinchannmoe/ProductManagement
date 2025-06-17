@@ -1,0 +1,119 @@
+﻿@model ProductManagement.Models.Product
+
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-header bg-warning text-dark">
+                <h5 class="mb-0">
+                    <i class="fas fa-edit me-2"></i>Edit Product
+                </h5>
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit" id="editProductForm">
+                    <input type="hidden" asp-for="Id" />
+                    <input type="hidden" asp-for="CreatedDate" />
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label class="form-label text-muted small">Product ID</label>
+                        <div class="form-control-plaintext fw-bold">#@Model.Id</div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label fw-semibold">Product Name <span class="text-danger">*</span></label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter product name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Price" class="form-label fw-semibold">Price <span class="text-danger">*</span></label>
+                        <div class="input-group">
+                            <span class="input-group-text">$</span>
+                            <input asp-for="Price" class="form-control" placeholder="0.00" step="0.01" />
+                        </div>
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-4">
+                        <label asp-for="Description" class="form-label fw-semibold">Description</label>
+                        <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter product description (optional)"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <small class="text-muted">
+                            <i class="fas fa-clock me-1"></i>
+                            Created: @Model.CreatedDate.ToString("MMM dd, yyyy 'at' hh:mm tt")
+                        </small>
+                    </div>
+
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <a href="@Url.Action("Index")" class="btn btn-secondary me-md-2">
+                            <i class="fas fa-times me-2"></i>Cancel
+                        </a>
+                        <button type="submit" class="btn btn-warning text-dark">
+                            <i class="fas fa-save me-2"></i>Update Product
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            // Same validation as Create form
+            $('#editProductForm').on('submit', function (e) {
+                var isValid = true;
+
+                $('.custom-error').remove();
+
+                var name = $('input[name="Name"]').val().trim();
+                if (!name) {
+                    showFieldError('Name', 'Product name is required');
+                    isValid = false;
+                } else if (name.length > 255) {
+                    showFieldError('Name', 'Product name cannot exceed 255 characters');
+                    isValid = false;
+                }
+
+                var price = parseFloat($('input[name="Price"]').val());
+                if (!price || price <= 0) {
+                    showFieldError('Price', 'Price must be greater than 0');
+                    isValid = false;
+                }
+
+                var description = $('textarea[name="Description"]').val();
+                if (description && description.length > 500) {
+                    showFieldError('Description', 'Description cannot exceed 500 characters');
+                    isValid = false;
+                }
+
+                if (!isValid) {
+                    e.preventDefault();
+                }
+            });
+
+            function showFieldError(fieldName, message) {
+                var field = $('input[name="' + fieldName + '"], textarea[name="' + fieldName + '"]');
+                field.addClass('is-invalid');
+                field.after('<div class="text-danger custom-error small mt-1">' + message + '</div>');
+            }
+
+            $('input, textarea').on('input', function () {
+                $(this).removeClass('is-invalid');
+                $(this).siblings('.custom-error').remove();
+            });
+        });
+    </script>
+}
