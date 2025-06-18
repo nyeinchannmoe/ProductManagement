@@ -2040,11 +2040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\ProductManagement.csproj",
+      "projectUniqueName": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\ProductManagement.csproj",
       "projectName": "ProductManagement",
-      "projectPath": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\ProductManagement.csproj",
+      "projectPath": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\ProductManagement.csproj",
       "packagesPath": "C:\\Users\\KTZ Myanmar Group 2\\.nuget\\packages\\",
-      "outputPath": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\obj\\",
+      "outputPath": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KTZ Myanmar Group 2\\AppData\\Roaming\\NuGet\\NuGet.Config",

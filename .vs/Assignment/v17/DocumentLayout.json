@@ -1,106 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\NCM\\Dotnet\\Personal\\Assignment\\",
+  "WorkspaceRootPath": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\assignment\\assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|c:\\ncm\\dotnet\\personal\\productmanagement\\assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEFE4A36-AF3B-43E8-BFD3-163A81AB58F1}|Assignment\\ProductManagement.csproj|solutionrelative:assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,94 +130,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dashboard.css",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\css\\dashboard.css",
-              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\dashboard.css",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\css\\dashboard.css",
-              "RelativeToolTip": "Assignment\\wwwroot\\css\\dashboard.css",
-              "ViewState": "AQIAAMEBAAAAAAAAAAAmwIICAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-17T10:56:29.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T15:53:53.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_DashboardLayout.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-17T10:54:15.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Assignment\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwFYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-16T15:55:19.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "DocumentIndex": 8,
+              "Title": "_DashboardLayout.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwA4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T15:29:31.474Z",
+              "WhenOpened": "2025-06-17T10:54:15.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Dashboard\\index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Dashboard\\index.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Dashboard\\index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Dashboard\\index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:53:39.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T15:28:56.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:51:26.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Assignment\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Assignment\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:05:35.799Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment\\appsettings.json",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\appsettings.json",
+              "RelativeToolTip": "Assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T15:31:35.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Dashboard\\index.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\Dashboard\\index.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Dashboard\\index.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\Dashboard\\index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-17T10:53:39.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T15:53:12.175Z"
             },
             {
               "$type": "Bookmark",
@@ -221,228 +221,227 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dashboard.js",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\js\\dashboard.js",
-              "RelativeDocumentMoniker": "Assignment\\wwwroot\\js\\dashboard.js",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\js\\dashboard.js",
-              "RelativeToolTip": "Assignment\\wwwroot\\js\\dashboard.js",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBAAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-17T10:57:17.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Assignment\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Assignment\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAuwCgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:52:19.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Assignment\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-17T10:55:52.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Assignment\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Assignment\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAUwJ4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-17T10:56:53.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Assignment\\Services\\ProductService.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Services\\ProductService.cs",
-              "RelativeToolTip": "Assignment\\Services\\ProductService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAjwDAAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:26:36.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductManagement.csproj",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\ProductManagement.csproj",
-              "RelativeDocumentMoniker": "Assignment\\ProductManagement.csproj",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\ProductManagement.csproj",
-              "RelativeToolTip": "Assignment\\ProductManagement.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T15:25:45.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Assignment\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAF8AAAAPAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAIAwwCwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T15:29:16.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAE0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T15:29:47.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T15:29:16.664Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\Product\\Details.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwE4AAAAAAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T15:30:00.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T15:29:31.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T15:53:53.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T02:12:18.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Assignment\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:05:35.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Assignment\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwLAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-17T10:56:53.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\css\\dashboard.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\dashboard.css",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\css\\dashboard.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\dashboard.css",
+              "ViewState": "AQIAAMEBAAAAAAAAAAAmwIICAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-17T10:56:29.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\js\\dashboard.js",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\js\\dashboard.js",
+              "RelativeToolTip": "Assignment\\wwwroot\\js\\dashboard.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-17T10:57:17.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:52:19.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Assignment\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Assignment\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEkAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:24:44.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Assignment\\Models\\Product.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Models\\Product.cs",
-              "RelativeToolTip": "Assignment\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:25:31.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "Assignment\\Services\\IProductService.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Services\\IProductService.cs",
-              "RelativeToolTip": "Assignment\\Services\\IProductService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAIAxwAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:26:25.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Assignment\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Assignment\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:24:49.831Z",
-              "EditorCaption": ""
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Assignment\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-17T10:55:52.89Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAIwE8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T15:28:56.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\appsettings.json",
-              "RelativeDocumentMoniker": "Assignment\\appsettings.json",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\appsettings.json",
-              "RelativeToolTip": "Assignment\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T15:31:35.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment\\Program.cs",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Program.cs",
-              "RelativeToolTip": "Assignment\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Assignment\\Services\\ProductService.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Services\\ProductService.cs",
+              "RelativeToolTip": "Assignment\\Services\\ProductService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAjwDAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:51:26.273Z"
+              "WhenOpened": "2025-06-16T15:26:36.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Assignment\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Assignment\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "DocumentIndex": 17,
+              "Title": "ProductManagement.csproj",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\ProductManagement.csproj",
+              "RelativeDocumentMoniker": "Assignment\\ProductManagement.csproj",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\ProductManagement.csproj",
+              "RelativeToolTip": "Assignment\\ProductManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T15:25:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T15:53:12.175Z"
+              "WhenOpened": "2025-06-16T15:29:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T15:30:00.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:24:44.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Product.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Models\\Product.cs",
+              "RelativeToolTip": "Assignment\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:25:31.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Assignment\\Services\\IProductService.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Services\\IProductService.cs",
+              "RelativeToolTip": "Assignment\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAxwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:26:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:24:49.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Assignment\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\Assignment\\Assignment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\NCM\\Dotnet\\Personal\\ProductManagement\\Assignment\\Properties\\launchSettings.json",
               "RelativeToolTip": "Assignment\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

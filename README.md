@@ -5,7 +5,7 @@
 
 This guide will help you quickly set up and run the Product Management System for evaluation.
 
-## ⚡ Quick Start (5 Minutes)
+## ⚡ Quick Start
 
 ### Option 1: Using SQL Server LocalDB (Recommended)
 ```bash
@@ -24,7 +24,7 @@ dotnet run
 1. **Install SQL Server Express** (if not already installed)
 2. **Update connection string** in `appsettings.json`:
    ```json
-   "DefaultConnection": "Server=.\\SQLEXPRESS;Database=ProductManagementDB;Trusted_Connection=true;"
+   "DefaultConnection": "Server=ServerName;Database=DatabaseName;User ID=userid;password=user password;TrustServerCertificate = true;"
    ```
 3. **Run the application:**
    ```bash
@@ -118,7 +118,7 @@ dotnet restore
 If you encounter any issues during setup:
 1. Check the main README.md for detailed instructions
 2. Verify all prerequisites are installed
-3. Contact: [your.email@example.com]
+3. Contact: [nyeinchann2001moe@gmail.com]
 
 ---
 
@@ -140,7 +140,7 @@ If you encounter any issues during setup:
 ### Project Architecture
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Controllers   │───▶│    Services     │───▶│    Database     │
+│   Controllers   │──▶│    Services     │───▶│    Database     │
 │                 │    │                 │    │                 │
 │ - ProductCtrl   │    │ - IProductSvc   │    │ - MSSQL Server  │
 │ - HomeCtrl      │    │ - ProductSvc    │    │ - Dapper ORM    │
@@ -152,7 +152,7 @@ If you encounter any issues during setup:
 │     Views       │                            │     Models      │
 │                 │                            │                 │
 │ - Product/*     │                            │ - Product.cs    │
-│ - Dashboard/*   │◀───────────────────────────│ - ViewModels    │
+│ - Dashboard/*   │◀──────────────────────────│ - ViewModels    │
 │ - Shared/*      │                            │                 │
 └─────────────────┘                            └─────────────────┘
 ```
